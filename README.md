@@ -150,9 +150,3 @@ This Python port and all accompanying documentation are released to the **public
 
 **Original source:**
 > Headquarters, Department of the Army. *FM 34-40-2: Basic Cryptanalysis*, Appendix F — Cryptanalysis Support Program. Washington, DC: Department of the Army, 1990.
-
----
-
-## Contributing
-
-Bug reports and improvements are welcome. Please open an issue or pull request. When reporting a discrepancy between `crypto.py` and `crypto.bas`, cite the GW-BASIC line number for reference.
